@@ -80,6 +80,8 @@ typedef struct Crew {
  ✈ AIRLINE CREW MANAGEMENT SYSTEM
 ====================================
 1. Add Crew (Create)
+    <img width="362" height="257" alt="Screenshot 2026-04-24 at 11 05 21 PM" src="https://github.com/user-attachments/assets/98252187-0e5f-4075-9fd0-1f23334bbec0" />
+
 2. Delete Crew
 3. Update Crew
 4. Search Crew
