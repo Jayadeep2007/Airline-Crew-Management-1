@@ -80,12 +80,26 @@ typedef struct Crew {
  ✈ AIRLINE CREW MANAGEMENT SYSTEM
 ====================================
 1. Add Crew (Create)
+    <img width="362" height="257" alt="Screenshot 2026-04-24 at 11 05 21 PM" src="https://github.com/user-attachments/assets/98252187-0e5f-4075-9fd0-1f23334bbec0" />
+
 2. Delete Crew
+    <img width="362" height="244" alt="Screenshot 2026-04-24 at 11 09 16 PM" src="https://github.com/user-attachments/assets/356eea03-d69a-433c-a1cb-31529eec95d7" />
+
 3. Update Crew
+    <img width="334" height="258" alt="Screenshot 2026-04-24 at 11 11 22 PM" src="https://github.com/user-attachments/assets/0789ff4f-883f-45e3-b207-6660146fcc56" />
+
 4. Search Crew
+    <img width="344" height="264" alt="Screenshot 2026-04-24 at 11 12 44 PM" src="https://github.com/user-attachments/assets/d39e0333-36bb-4ca9-8980-cc7e1e2dfa78" />
+
 5. Display Graph
+    <img width="350" height="250" alt="Screenshot 2026-04-24 at 11 15 42 PM" src="https://github.com/user-attachments/assets/5cc510fe-9360-4491-a261-9ab579926238" />
+
 6. Add Assignment
+    <img width="352" height="260" alt="Screenshot 2026-04-24 at 11 18 53 PM" src="https://github.com/user-attachments/assets/b70a3919-c377-494c-817d-22d1236803a0" />
+
 7. Exit
+    <img width="349" height="195" alt="Screenshot 2026-04-24 at 11 20 06 PM" src="https://github.com/user-attachments/assets/f086d0a0-1586-4e0b-b58b-2ae36fa1854c" />
+
 ====================================
 
 📌 Sample Output :  
